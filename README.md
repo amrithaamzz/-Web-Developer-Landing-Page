@@ -52,6 +52,8 @@ project-folder/
 ![IMAGE](./2.png)
 ![IMAGE](./3.png)
 
+[lIVE]( https://amrithaamzz.github.io/-Web-Developer-Landing-Page/)
+
 
 ### 🔹 Hero Section
 
